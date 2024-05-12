@@ -4,7 +4,7 @@ This is a ChatGPT jailbreak prompt that will allow you to do whatever you want w
 
 # How to use
 
-To use this jailbreak, simply open the jailbreak file and copy the text. Then open a new [ChatGPT window](https://chat.openai.com/)
+To use this jailbreak, simply open the [jailbreak file](https://raw.githubusercontent.com/paysonism/GPT-Jailbreak/main/Unrestricted.md) and copy the text. Then open a new [ChatGPT window](https://chat.openai.com/)
 and paste the text. Now ask ChatGPT whatever you want!
 
 # Credits
